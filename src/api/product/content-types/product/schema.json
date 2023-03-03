@@ -41,6 +41,9 @@
     "category": {
       "type": "string",
       "required": true
+    },
+    "selectSize": {
+      "type": "json"
     }
   }
 }
